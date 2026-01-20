@@ -1,0 +1,15 @@
+C:\Net_Core_API\hoangmanhduc\bin\Debug\net10.0\hoangmanhduc.exe
+C:\Net_Core_API\hoangmanhduc\bin\Debug\net10.0\hoangmanhduc.deps.json
+C:\Net_Core_API\hoangmanhduc\bin\Debug\net10.0\hoangmanhduc.runtimeconfig.json
+C:\Net_Core_API\hoangmanhduc\bin\Debug\net10.0\hoangmanhduc.dll
+C:\Net_Core_API\hoangmanhduc\bin\Debug\net10.0\hoangmanhduc.pdb
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.AssemblyInfoInputs.cache
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.AssemblyInfo.cs
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.csproj.CoreCompileInputs.cache
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.sourcelink.json
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.dll
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\refint\hoangmanhduc.dll
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.pdb
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\hoangmanhduc.genruntimeconfig.cache
+C:\Net_Core_API\hoangmanhduc\obj\Debug\net10.0\ref\hoangmanhduc.dll
